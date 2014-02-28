@@ -1,2 +1,2 @@
-leetcode_python_code
+My python codes in leetcode
 ====================
